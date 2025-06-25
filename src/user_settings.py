@@ -33,7 +33,7 @@ SOURCE_URLS = [
 "https://t.me/s/mrsoulb",
 "https://t.me/s/proxy_confiig",
 "https://t.me/s/proxyiranip",
-"https://t.me/s/prooofsor",
+"https://t.me/s/club_profsor",
 "https://t.me/s/shadowproxy66",
 "https://t.me/s/soskeynet",
 "https://t.me/s/speeds_vpn1",
