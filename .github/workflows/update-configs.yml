@@ -68,8 +68,6 @@ jobs:
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
 
-        git pull --rebase origin main
-
         git add configs/proxy_configs.txt
         git add configs/singbox_configs.json
         git add configs/channel_stats.json
