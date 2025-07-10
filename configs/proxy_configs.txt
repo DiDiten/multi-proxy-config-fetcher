@@ -146,8 +146,6 @@ vless://3bf13892-1d0f-5674-8b20-e978212ba96b@45.89.52.193:443?security=tls&sni=z
 
 vless://3bf13892-1d0f-5674-8b20-e978212ba96b@www.speedtest.net:443?security=tls&sni=tr-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=tr-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20TR%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
-vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%40vless_config
-
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 
 vless://3e7912e9-1310-4c2b-80e8-21201f623cc9@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey#Telegram%20%40ghalayann%20%20%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA
@@ -163,6 +161,8 @@ vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443/?type=tcp&encryp
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443/?type=tcp&encryption=none&flow=&security=tls&sni=local.rogsoftwaregroup.com#AzadNet_%F0%9F%87%BA%F0%9F%87%B8%20%285%29
 
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%40safeNet4All
+
+vless://440e80b3-8122-4e56-b5bf-9b92bd79a510@Op.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 
 vless://46187d11-d1c3-5e4c-b397-324cfe8c3fbf@45.12.150.236:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.150.236&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20ES%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
@@ -182,25 +182,25 @@ vless://4cb12ac3-f4fa-47bc-a009-14b5b7d83510@prod6-cloud03-net03.cyberscaler.com
 
 vless://4cc5aabe-17d9-4734-b392-f7bf3b32b293@85.9.100.62:443?type=tcp&security=none#user-free-112
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=rayan-08.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@cdnjs.com:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-1.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=rayan-10.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@fonts.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-4.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=rayan-11.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@homestead.com:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-3.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.147.22:443?security=tls&sni=rayan-12.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@jquery.com:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-2.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=rayan-09.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@ns1.cloudflare.com:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-2.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=rayan-11.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-2.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.17.148.22:443?security=tls&sni=rayan-12.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-3.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.1.74:443?security=tls&sni=rayan-09.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-3
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-4.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@162.159.49.46:443?security=tls&sni=rayan-08.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-1.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-5
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@198.41.206.102:443?security=tls&sni=rayan-10.parastoo.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.speedtest.net:443?security=tls&sni=raYaN-yKk.ParAstOo.dPdNS.orG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-2.mix-ii.msnegar.eu.org&host=rayan-ykk.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
 
 vless://4f0ec48d-85ff-4163-bac7-eae00246fb17@prod6-cloud03-net03.cyberscaler.com:6068?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NorthXRAY%20-%20TCP%20%F0%9F%94%A5%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8
 
@@ -306,23 +306,25 @@ vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=%2Fikhocbws&
 
 vless://784ff7cf-86ba-4a8d-acf2-f5e881a73903@uae-01.cloxynode.com:35515?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome#UAE-Dubai-01
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.16.59.199:443?security=tls&sni=rayan-08.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-2
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@cdnjs.com:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&type=ws&path=/pyip%3Deu-2.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-2
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.147.22:443?security=tls&sni=rayan-09.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-3
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@digitalocean.com:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-4.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-4
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.147.22:443?security=tls&sni=rayan-11.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-5
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@iplocation.net:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-3.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-3
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.147.22:443?security=tls&sni=rayan-12.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-6
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@sourceforge.net:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-1.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-5
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.148.22:443?security=tls&sni=rayan-10.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-10.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-4
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-2.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-2
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.148.22:443?security=tls&sni=rayan-11.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-11.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-5
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-3.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-3
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.17.148.22:443?security=tls&sni=rayan-12.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-12.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-6
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Deu-4.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-4
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.24.129.78:443?security=tls&sni=rayan-09.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-09.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-3
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-1.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-5
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.25.55.212:443?security=tls&sni=rayan-08.leila.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-2
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-2.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-6
+
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@zula.ir:443?security=tls&sni=raYan-yKk.lEila.DpdNs.OrG&allowInsecure=1&fp=chrome&type=ws&path=/pyip%3Dus-2.eu-ii.msnegar.eu.org&host=rayan-ykk.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-6
 
 vless://7c8f1ed6-1cac-46a7-a811-a2d6853b0de4@www.speedtest.net:2087?security=tls&sni=uk-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20WSCT%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
@@ -342,15 +344,13 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=%2F&secur
 
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=mail.ski1plag.ir&type=ws#%E2%9C%A6%E2%95%90---%F0%9F%9A%80%5B%20%40PowerCodes%20%5D%F0%9F%9A%80---%E2%95%90%E2%9C%A6
 
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=%2Fdownload&security=none&encryption=none&host=mail.ski1plag.ir&type=ws#%F0%9F%8C%88+%D8%AE%D8%AF%D8%A7%DB%8C+%D8%B1%D9%86%DA%AF%DB%8C%D9%86+%DA%A9%D9%85%D8%A7%D9%86+16+%F0%9F%8C%88
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@ko-01.cloxynode.com:35515#KO-Seoul-01
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@sg-01.cloxynode.com:35515#SG-Singapore-01
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Plan%20expiration%3A%202025-10-07
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20220.73%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20216.82%20GB
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 
@@ -372,7 +372,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Plan%20expiration%3A%202025-10-07
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20275.76%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20275.4%20GB
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 
@@ -384,7 +384,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Plan%20expiration%3A%202025-10-07
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20266.79%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20264.43%20GB
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 
@@ -412,9 +412,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#%40
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Club_Profsor%40
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443# https://t.me/ConfigX2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#Telegram%20%3A%20%40Mrsoulb%20%F0%9F%8F%B3%F0%9F%8F%B4
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443# https://t.me/ConfigX2ray
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%40proxy_confiig%F0%9F%87%A9%F0%9F%87%AA@proxy_confiig
 
@@ -434,13 +434,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443# ht
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%86%98
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443#Telegram%20%3A%20%40Mrsoulb%20%F0%9F%8F%B3%F0%9F%8F%B4
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@ko-01.cloxynode.com:35515#KO-Seoul-01
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@sg-01.cloxynode.com:35515#SG-Singapore-01
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Plan%20expiration%3A%202025-10-07
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20222.21%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20221.5%20GB
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 
@@ -451,8 +453,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080# https://t.me/ConfigX2ray
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443# https://t.me/ConfigX2ray
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 
@@ -520,10 +520,6 @@ hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:37058/?sni=dxobg
 
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@23.132.228.217:32219/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@23.132.228.217:32219/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@23.132.228.217:32219/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
@@ -570,11 +566,11 @@ trojan://172b2279-f7f5-4542-ab6c-9e96ad7dd5be@ni.mjt000.com:443?security=tls&sni
 
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#✅@AR14N24b
 
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#✅@AR14N24bبهترین راهکار برای رفع مشکل اتصال به پروکسی/فیلترشکن 🧠#کانفیگ #proxy #v2ray #اینترنت #پروکسی_رایگانکانال رو معرفی و شیر کنین@AR14N24b
+
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#✅@AR14N24b
 
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#✅@AR14N24b
-
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#✅@AR14N24bبهترین راهکار برای رفع مشکل اتصال به پروکسی/فیلترشکن 🧠#کانفیگ #proxy #v2ray #اینترنت #پروکسی_رایگانکانال رو معرفی و شیر کنین@AR14N24b
 
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org# https://t.me/ConfigX2ray
 
@@ -582,17 +578,23 @@ trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&
 
 trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443?security=tls#✅@AR14N24b
 
+trojan://7ac49a893e0bd10c@23.247.137.161:443?security=tls&alpn=h2&type=grpc&serviceName=db&sni=TG.WangCai2#[🇩🇪]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+
 trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@it.mjt000.com:443?security=tls&sni=it.mjt000.com#✅@AR14N24b
+
+trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@it.mjt000.com:443?security=tls&sni=it.mjt000.com#✅@AR14N24bبهترین راهکار برای رفع مشکل اتصال به پروکسی/فیلترشکن 🧠#کانفیگ #proxy #v2ray #اینترنت #پروکسی_رایگانکانال رو معرفی و شیر کنین@AR14N24b
 
 trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?security=tls&sni=pt.mjt000.com#✅@AR14N24b
 
-trojan://Z3pZcGOWfQ@ir01.oghabvps.com:54655?type=tcp&path=%2F&host=104.16.132.229&headerType=http&security=none#✅@AR14N24bبهترین راهکار برای رفع مشکل اتصال به پروکسی/فیلترشکن 🧠#کانفیگ #proxy #v2ray #اینترنت #پروکسی_رایگانکانال رو معرفی و شیر کنین@AR14N24b
+trojan://abbccaa-acba-abca-bcda-bbabcaacabcc@127.0.0.1:2080?security=tls&type=tcp#[🏁]t.me/ConfigsHubϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
 
 trojan://af4d2493-9156-4514-9f6b-ee5d1a1e4713@download2hkt.windowsupdate.lol:443?security=tls#✅@AR14N24b
 
 trojan://bcbaaac-abac-abca-dcba-bcaabcbbccaa@127.0.0.1:8080?security=tls&headerType=&type=tcp# https://t.me/ConfigX2ray
 
-trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443?security=tls#✅@AR14N24b
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#[🇨🇦]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#✅@AR14N24b
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5vcnRoWFJBWSAtIFZNRVNTXHVEODNEXHVERDI1XHVEODNDXHVEREU5XHVEODNDXHVEREVBIFx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCIsDQogICJhZGQiOiAicHJvZDItZmgtY2xvdWQtaHlicmlkMDEtdm10MDEuY3liZXJzY2FsZXIuY29tIiwNCiAgInBvcnQiOiAiMzczMzMiLA0KICAiaWQiOiAiMmYxNjVhYzMtNTczZi00MzYxLWI3ZjItNmMyZDRkYzM2MDQ4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAid3d3LnNwZWVkdGVzdC5uZXQiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
@@ -632,6 +634,8 @@ vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEi
 
 vmess://eyJhZGQiOiIzOC4xMi44My4yMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDAwMiIsInBzIjoi4pyoIEBOYW1pcmFOZXQgfCDimqEgfCDwn4yQIDM4LjEyLjgzLjIxNyB8IPCfh7rwn4e4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiJ3d3cubWV0ZXIubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJibGF6ZS1nZXItMjQ4LmJsYXplY2xvdWRtYWluLnNpdGUiLCJpZCI6ImMyMDhlMGFlLTZmNmQtNDc0NS05OWRhLTQ0YTQ0NzQ0YzUzMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3NydD9lZD0yNTYwIiwicG9ydCI6IjIwODMiLCJwcyI6IuKcqCBATmFtaXJhTmV0IHwg4pqhIHwg8J+MkCB3d3cubWV0ZXIubmV0IHwg8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiYmxhemUtZ2VyLTI0OC5ibGF6ZWNsb3VkbWFpbi5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
 vmess://eyJhZGQiOiJhc2FsYW1hbnNhLmJsdWV0b290aG1vdXNlLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYW52YS5jb20iLCJpZCI6IjU0OTA0NzEzLWI2MTEtNGU4ZS1iZTc3LWEwMWQ4MjBiOWMxYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwOTAiLCJwcyI6IlM5NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJhc2FsYW1hbnNhLmJsdWV0b290aG1vdXNlLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYW52YS5jb20iLCJpZCI6IjU0OTA0NzEzLWI2MTEtNGU4ZS1iZTc3LWEwMWQ4MjBiOWMxYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwOTAiLCJwcyI6IlRlbGVncmFtIDogQE1yc291bGIg8J+Ps/Cfj7QiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
@@ -646,7 +650,7 @@ vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 
 vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiJncjEubnNwYXkudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM0OTI0NzJkLTZlZDEtNDkyMi1hZTY1LWMwNzJhOWI3OGJmOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzU2MDAiLCJwcyI6Ilvwn4eu8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJtb29ubC5xdWVyZW5jaWF2aWIueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMzODUwNzY2LTVkYTYtNDI4My1iYzY0LTRiMjIxYTExMmI3YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9NT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWXYiLCJwb3J0IjoiOTg1NSIsInBzIjoiW/Cfh6vwn4euXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJtb29ubC5xdWVyZW5jaWF2aWIueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJuaGVsMS10dS5tb2JzdG9yZS5zdG9yZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmFyemVzaDMuY29tIiwiaWQiOiJhOWI2OGUzNi1lYjM1LTFiYmMtYjk1OC1lY2QwZTQ2YmE0MjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDgzIiwicHMiOiJUZWxlZ3JhbUlEIOKMskV4cHJlc3NfZnJlZXZwbiDwn5+n8J+fqdmF2LHYrNi5INqp2KfZhtmB24zaryDZh9in24wg2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
