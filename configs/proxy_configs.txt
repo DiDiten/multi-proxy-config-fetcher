@@ -356,18 +356,6 @@ hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:37058/?sni=dxobg
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
-hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
@@ -468,7 +456,7 @@ hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyhl.flylink.cyou:35250/?insec
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyjnd.flylink.cyou:35280/?insecure=1&sni=flyjnd.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A993.26%20GB
+hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A984.5%20GB
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
 
@@ -536,13 +524,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhtWQ==@91.108.248.10:8139?plugin=obfs-loc
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg==@209.200.246.174:8139?plugin=obfs-local;obfs%3Dhttp;obfs-host%3Dm.youtube.com;obfs-uri%3D/#Rayan%20-%20SSM%20-%20CA%20-%20@Rayan_Config
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#Telegram%20%3A%20%40Mrsoulb%20%F0%9F%8F%B3%F0%9F%8F%B4
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443# https://t.me/ConfigX2ray
-
-ss://YWVzLTEyOC1nY206cng4OGJCMHd4dUEwMlNhaGdDYlNCS0JaaG1LVzBua1drUGFXYzZsVlI1VT0=@91.99.237.255:80#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev# https://t.me/ConfigX2ray
 
@@ -551,8 +539,6 @@ trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&securit
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#%40lrnbymaa
 
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&host=%2FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&headerType=none&fp=random&spx=%2FyethePcHjaf%2FBIA_CHANEL%40JOKERRVPN&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%86%98
-
-trojan://vip@log.bpminecraft.com:443?encryption=none&security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHubϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ᴄᴀɴᴀᴅᴀ(ᴄᴀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5vcnRoWFJBWSAtIFZNRVNTXHVEODNEXHVERDI1XHVEODNDXHVEREU5XHVEODNDXHVEREVBIFx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCIsDQogICJhZGQiOiAicHJvZDItZmgtY2xvdWQtaHlicmlkMDEtdm10MDEuY3liZXJzY2FsZXIuY29tIiwNCiAgInBvcnQiOiAiMzczMzMiLA0KICAiaWQiOiAiMmYxNjVhYzMtNTczZi00MzYxLWI3ZjItNmMyZDRkYzM2MDQ4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAid3d3LnNwZWVkdGVzdC5uZXQiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
