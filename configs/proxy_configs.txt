@@ -18,8 +18,6 @@ vless://06a8c8c4-28a6-4da4-8037-b16023e4e7bf@eng20.vinashopvip.ir:55915?path=%2F
 
 vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.104:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=cd4457b1#TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
 
-vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B1telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
-
 vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
 
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=MAxNETvipAp-cloUD252.nEtKh3.site&type=ws&sni=MAxNETvipAp-cloUD252.nEtKh3.site#@meli_proxyy
@@ -46,8 +44,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h3h2&encryption=none&host=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&type=ws&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&type=ws&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO#@meli_proxyy
-
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#@meli_proxyy
 
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org# https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray
@@ -70,10 +66,6 @@ vless://31d40cc1-b8d0-55d5-a333-a309c9879b3e@95.215.8.25:443?security=tls&sni=zu
 
 vless://31d40cc1-b8d0-55d5-a333-a309c9879b3e@www.speedtest.net:443?security=tls&sni=nl-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20NL%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
-vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=NIce-APartMEnt.ZULAir.ORg&type=ws#@meli_proxyy
-
-vless://32622124-139e-4eab-8fb8-faaf021acd3f@poseidex.house0of1nyxora.top:2096?security=reality&encryption=none&pbk=jM7JL3cp1HdLpEuvRDGJlzI-zUXW_6z8FkQBqimt4BE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=88dfa714#%E2%9C%85%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%DB%8C%DA%98%D9%87%20%3A%20%40customv2ray
-
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Club_Profsor%40
 
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@meli_proxyy
@@ -81,8 +73,6 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://368295df-be7e-481d-982e-4748397f00a2@mrzh.wizard2shop.org:2050?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=wordpress.org&sid=6ba85179e30d4fc2#@Capoit
 
 vless://36f540c5-0e77-4801-8633-de11645737e4@185.204.169.242:80?path=%2F%40custom_config&security=&encryption=none&host=%2FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&type=ws#https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray
-
-vless://36f540c5-0e77-4801-8633-de11645737e4@185.204.169.242:80?path=%2F%40custom_config&security=&encryption=none=%23%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&type=ws#%40mehrosaboran
 
 vless://36f540c5-0e77-4801-8633-de11645737e4@185.204.169.242:80?path=%2F%40custom_config&security=none&encryption=none&host=%2FJOKERRVPNTELEGRAM----%40----%40----%40----%40----%40----%40----%40----%40----%40----%40----%40king_v2raay&type=ws#TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
 
@@ -166,8 +156,6 @@ vless://520fdf95-078c-5839-9ac9-72885dcbf3d9@185.113.139.103:443?security=tls&sn
 
 vless://520fdf95-078c-5839-9ac9-72885dcbf3d9@www.speedtest.net:443?security=tls&sni=lv-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lv-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20LV%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
-vless://53bcefcd-b841-4948-9f8e-bdc4e54835ef@51.75.95.162:54223?security=reality&encryption=none&pbk=j3G7PtRmjsVCJs-UspMz8q16vgIwlofPpQESiObxaRE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=0de5c2dc9a48ba48#%40Daily_Configs
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.198.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.123:80?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40lrnbymaa
@@ -194,8 +182,6 @@ vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqq
 
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 
-vless://554e89e9-5d47-408a-ee92-2fa8506bc78c@zula.ir:2087?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Hopev2.hopebook75zulawu.online.&fp=chrome&type=ws&sni=Hopev2.hopebook75zulawu.online#@meli_proxyy
-
 vless://57511480-2d8d-58db-bfff-7267260383f2@45.12.132.142:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.132.142&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20HU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://57511480-2d8d-58db-bfff-7267260383f2@www.speedtest.net:443?security=tls&sni=hu-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=hu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20HU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -203,8 +189,6 @@ vless://57511480-2d8d-58db-bfff-7267260383f2@www.speedtest.net:443?security=tls&
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@108.162.195.20:8880?path=%2FTelegram%40mtmvpn%2F%3Fed%3D2560&security=none&encryption=none&host=ip.langmanshanxi.top&type=ws#%40meli_proxyy
 
 vless://591a0afd-924a-4a71-8063-10aac246bb65@www.speedtest.net:8443?encryption=none&security=tls&sni=uSer2-P2L.PAGes.Dev&alpn=http%2F1.1&fp=chrome&type=ws&host=user2-p2l.pages.dev&path=%2F4Nc6Idp9GW3U1xOc%3Fed%3D2560#@meli_proxyy
-
-vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?encryption=none&security=tls&sni=mmd-p9k.PagEs.Dev&fp=chrome&type=ws&host=mmd-p9k.PagEs.Dev&path=%2Ftel-%40v2ray_alpha%3D%3Fed%3D2560#%40Daily_Configs
 
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
@@ -240,8 +224,6 @@ vless://737345a9-649d-531d-93e4-23c53b4371f8@194.147.35.250:443?security=tls&sni
 
 vless://737345a9-649d-531d-93e4-23c53b4371f8@www.speedtest.net:443?security=tls&sni=uk-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20UK%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
-vless://752811df-c191-4f5f-acaa-ce6399a22024@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638879413057214934.kish-prx-dnraaad.info&type=ws&alpn=&host=638879413057214934.kish-prx-dnraaad.info&path=/lpiipkws#@meli_proxyy
-
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
 
 vless://75fde681-ec64-4654-86fa-30732e8e179c@162.159.129.11:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
@@ -276,13 +258,9 @@ vless://7bd9c9b0-e5e0-55b1-9338-e6977ab0593d@89.187.28.96:443?security=tls&sni=z
 
 vless://7bd9c9b0-e5e0-55b1-9338-e6977ab0593d@www.speedtest.net:443?security=tls&sni=jp-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=jp-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20JP%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?mode=stream-one&path=%2Fstatue%2F%3Fv2rayng_fars----%40v2rayng_fars&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
-
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
 
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
-
-vless://7ff8a0c0-d0dd-4251-8f8f-46e9b44d44ba@hecror.bizipsych.ir:38755?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=Hz-XqYNjjbZ4yOjM6IKlQSvzUbipK0DY5-rmH7f4SAo&sid=585d50e4e2&spx=%2FZWgg3MvoxS5DjEu&type=tcp&headerType=none#%40Daily_Configs
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
 
@@ -336,13 +314,35 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&securit
 
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#%40lrnbymaa
 
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#@meli_proxyy
-
 vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@5.253.41.139:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.253.41.139&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20JP%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@www.speedtest.net:443?security=tls&sni=jp-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=jp-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20JP%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://HqV2rayNG@178.162.244.159:27418?security=reality&encryption=none&pbk=wo4Z0rxAo4tFFFJFbQr6EU8cX2O44DMQLyQg7g-GQT8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#%40lrnbymaa
+
+vless://Parsashonam-279@104.16.53.11:8080?type=ws&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&host=FragmentFi.Rubika.cYoU.&security=none#@Parsashonam
+
+vless://Parsashonam-279@104.17.147.22:8080?type=ws&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&host=FragmentFi.Rubika.cYoU.&security=none#@Parsashonam
+
+vless://Parsashonam-279@188.114.96.0:8080?type=ws&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&host=FragmentFi.Rubika.cYoU.&security=none#@Parsashonam
+
+vless://Telegram-SRCVPN-SRCVPN@188.245.234.67:41379?security=reality&encryption=none&pbk=20lV1j_0cDv2tLfOpJu2gtOsLugXPWYqJT_4Oi__2mE&headerType=&fp=chrome&spx=%2F-%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN&type=tcp&sni=yahoo.com&sid=3c98# https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray https://t.me/ConfigX2ray
+
+vless://a5374b23-3d6b-5b29-81d8-60c6990fcf34@45.12.139.51:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.139.51&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20LU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+vless://a5374b23-3d6b-5b29-81d8-60c6990fcf34@www.speedtest.net:443?security=tls&sni=lu-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20LU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+
+vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
+
+vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
+
+vless://aa5749e8-8fb9-59cd-b0e7-c0a26937cf33@45.134.9.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.134.9.188&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20MX%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+vless://aa5749e8-8fb9-59cd-b0e7-c0a26937cf33@www.speedtest.net:443?security=tls&sni=mx-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=mx-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20MX%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+
+vless://aaaa8f7a-4b22-5f01-9b91-95f368ef38c7@5.180.30.106:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.180.30.106&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20UK%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+vless://aaaa8f7a-4b22-5f01-9b91-95f368ef38c7@www.speedtest.net:443?security=tls&sni=uk-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20UK%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000/?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 
@@ -378,59 +378,53 @@ hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@23.132.228.217:43721/?sni=dxobg
 
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.121.211:30300/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?security=tls&insecure=1&sni=www.apple.com#TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21146?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E6%B5%B7%E9%A3%8E%E5%91%A2%E5%96%83%20%F0%9F%8C%BF
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21104?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E6%B5%B7%E9%A3%8E%E5%91%A2%E5%96%83%20%F0%9F%8C%BF
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21161?mport=21101-21199&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A324.38%20GB
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21155?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E6%A2%A6%E5%B9%BB%E6%B8%AF%E6%B9%BE%20%F0%9F%8C%8A
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21161?mport=21101-21199&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21165?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E4%BA%91%E6%B5%B7%E4%BB%99%E8%B8%AA%20%E2%98%81%EF%B8%8F
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21161?mport=21101-21199&insecure=0#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A30%20%E5%A4%A9
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21172?mport=21101-21199&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A291.66%20GB
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21161?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E7%92%80%E7%92%A8%E6%98%9F%E6%B2%B3%20%E2%9C%A8
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21172?mport=21101-21199&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21173?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E4%BA%91%E6%B5%B7%E4%BB%99%E8%B8%AA%20%E2%98%81%EF%B8%8F
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21172?mport=21101-21199&insecure=0#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A30%20%E5%A4%A9
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21199?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E6%A2%A6%E5%B9%BB%E6%B8%AF%E6%B9%BE%20%F0%9F%8C%8A
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@hk.xn--2vxn29amga.com:21172?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E7%92%80%E7%92%A8%E6%98%9F%E6%B2%B3%20%E2%9C%A8
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@jp.xn--2vxn29amga.com:21121?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E6%A8%B1%E6%B5%B7%E6%99%95%E6%9F%93%20%F0%9F%8C%B8
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@jp.xn--2vxn29amga.com:21113?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E6%A8%B1%E6%B5%B7%E6%99%95%E6%9F%93%20%F0%9F%8C%B8
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@jp.xn--2vxn29amga.com:21165?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9B%AA%E8%90%BD%E6%97%A0%E5%A3%B0%20%E2%9D%84%EF%B8%8F
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@jp.xn--2vxn29amga.com:21121?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9B%AA%E8%90%BD%E6%97%A0%E5%A3%B0%20%E2%9D%84%EF%B8%8F
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@jp.xn--2vxn29amga.com:21169?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E5%8D%83%E5%B9%B4%E7%83%9F%E9%9B%A8%20%F0%9F%8D%83
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@jp.xn--2vxn29amga.com:21145?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E5%8D%83%E5%B9%B4%E7%83%9F%E9%9B%A8%20%F0%9F%8D%83
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@jp.xn--2vxn29amga.com:21191?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9C%93%E8%99%B9%E6%A2%A6%E5%BD%B1%20%E2%9C%A8
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@jp.xn--2vxn29amga.com:21169?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9C%93%E8%99%B9%E6%A2%A6%E5%BD%B1%20%E2%9C%A8
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@sg.xn--2vxn29amga.com:21139?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E6%A2%A6%E6%B5%B7%E5%BE%AE%E6%BE%9C%20%F0%9F%8C%8A
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@sg.xn--2vxn29amga.com:21145?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E6%A2%A6%E6%B5%B7%E5%BE%AE%E6%BE%9C%20%F0%9F%8C%8A
+
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@sg.xn--2vxn29amga.com:21146?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%B9%81%E8%8A%B1%E4%BC%BC%E9%94%A6%20%F0%9F%8C%B8
 
 hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@sg.xn--2vxn29amga.com:21152?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%92%80%E7%92%A8%E6%98%8E%E7%8F%A0%20%E2%9C%A8
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@sg.xn--2vxn29amga.com:21160?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%B9%81%E8%8A%B1%E4%BC%BC%E9%94%A6%20%F0%9F%8C%B8
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@sg.xn--2vxn29amga.com:21170?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%83%9F%E7%81%AB%E4%BA%BA%E9%97%B4%20%F0%9F%8E%8F
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@sg.xn--2vxn29amga.com:21186?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%83%9F%E7%81%AB%E4%BA%BA%E9%97%B4%20%F0%9F%8E%8F
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@uk.xn--2vxn29amga.com:21110?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%83%9F%E9%9B%A8%E5%8F%A4%E9%9F%B5%20%E2%9B%A9%EF%B8%8F
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@uk.xn--2vxn29amga.com:21107?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E6%98%9F%E6%B2%B3%E7%B9%81%E9%83%BD%20%E2%9C%A8
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@uk.xn--2vxn29amga.com:21147?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E6%98%9F%E6%B2%B3%E7%B9%81%E9%83%BD%20%E2%9C%A8
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@uk.xn--2vxn29amga.com:21115?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%83%9F%E9%9B%A8%E5%8F%A4%E9%9F%B5%20%E2%9B%A9%EF%B8%8F
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@uk.xn--2vxn29amga.com:21161?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E9%A3%8E%E6%8B%82%E8%8A%B1%E6%B5%B7%20%F0%9F%8D%8A
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@uk.xn--2vxn29amga.com:21175?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E9%A3%8E%E6%8B%82%E8%8A%B1%E6%B5%B7%20%F0%9F%8D%8A
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@uk.xn--2vxn29amga.com:21172?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%A2%A7%E6%B5%B7%E9%9C%9E%E5%85%89%20%F0%9F%8C%8A
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@uk.xn--2vxn29amga.com:21195?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%A2%A7%E6%B5%B7%E9%9C%9E%E5%85%89%20%F0%9F%8C%8A
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@us.xn--2vxn29amga.com:21102?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E9%9B%BE%E9%9A%90%E9%87%91%E9%97%A8%20%F0%9F%8C%81
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@us.xn--2vxn29amga.com:21119?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E6%98%9F%E6%B2%B3%E4%B8%87%E8%B1%A1%20%E2%9C%A8
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@us.xn--2vxn29amga.com:21175?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E6%98%9F%E6%B2%B3%E4%B8%87%E8%B1%A1%20%E2%9C%A8
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@us.xn--2vxn29amga.com:21127?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E7%88%B5%E8%B0%83%E6%B5%81%E5%85%89%20%F0%9F%8E%B7
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@us.xn--2vxn29amga.com:21177?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E9%A3%8E%E9%9F%B5%E4%B9%8B%E9%83%BD%20%F0%9F%8D%82
 
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@us.xn--2vxn29amga.com:21131?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E9%A3%8E%E9%9F%B5%E4%B9%8B%E9%83%BD%20%F0%9F%8D%82
-
-hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@us.xn--2vxn29amga.com:21189?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E9%9B%BE%E9%9A%90%E9%87%91%E9%97%A8%20%F0%9F%8C%81
+hysteria2://2d0c9567-4622-4db0-a748-8d87d74d325a@us.xn--2vxn29amga.com:21196?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E7%88%B5%E8%B0%83%E6%B5%81%E5%85%89%20%F0%9F%8E%B7
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
@@ -522,7 +516,7 @@ hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyhl.flylink.cyou:35250/?insec
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyjnd.flylink.cyou:35280/?insecure=1&sni=flyjnd.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A879.2%20GB
+hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A876.97%20GB
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
 
@@ -662,8 +656,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.109.127:443#Te
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiVEtFbkRXWHpJaWRrS0xqOVd1Sksz@94.159.96.245:11902#@meli_proxyy
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BB%F0%9F%87%AA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#-WiFi-%20TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
@@ -689,6 +681,14 @@ trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&typ
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
 
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
+
+trojan://Aimer@119.196.155.50:12159?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #sᴏᴜᴛʜᴋᴏʀᴇᴀ(ᴋʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+
+trojan://Aimer@199.34.228.164:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+
+trojan://Aimer@3.71.189.51:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇩🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɢᴇʀᴍᴀɴʏ(ᴅᴇ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+
+trojan://Aimer@45.134.21.8:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟᴄᴏᴜɴᴛʀʏ: #ʙᴜʟɢᴀʀɪᴀ(ʙɢ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
 
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
 
@@ -749,14 +749,6 @@ wireguard://yFKKtuSGFz%2BNAC%2BsbmnKyWSsqYGLTfGysZxDFFvVf2U%3D@188.114.98.39:894
 vmess://eyJhZGQiOiI0My4xOTkuMjQuMjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzYi56aHVhbnNodS5jb20iLCJpZCI6ImNjMTAxZmYxLTM0NTItNDFjMy04OWZlLWMyYTVhMjBkYzZkYyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMwMDAiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtmB24zZhtqvICDYp9iu2KrYtdin2LXbjCBAUGFyc2lWMnJheSDZvtixINiz2LHYudiqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhdmVpcm9yLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJARGFpbHlfQ29uZmlncyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiI2Mi42MC4xNDguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNjNDAwNDhjLTI4YWEtNDE1Zi1iODZmLTcxNTEyYTM5OTA5NyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTY2MTIiLCJwcyI6ItmI2KjYs9mI2qnYqiAo2KfbjNix2KfZhtiz2YQpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI2Mi42MC4xNDguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRhNmI5MThmLWE2MTctNDA0Yi05MjJiLTVhMGFkM2QyNzhhOSIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTQxNzgiLCJwcyI6Imh0dHAg2KLZvtqv2LHbjNivICjZhdmI2K/ZhSkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiI2Mi42MC4xNDguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1cHR2cy5jb20iLCJpZCI6IjdjZjA5YWMwLTA1NzctNGU4Mi04YWQ4LTBkZjgyOTBiMjU0NSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ2ODAxIiwicHMiOiLZh9iv2LEgKNin2qnYq9ixINin2b7Ysdin2KrZiNix2YfYpykiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI4My4xNDkuODQuMTQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjRhYzM5ZThhLTZkNWMtNDhiYi1iMGQwLWY2MzNjODI5MTEzZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU3MDkiLCJwcyI6IkBtZWhyb3NhYm9yYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxNDYuNTkuNTUuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJARGFpbHlfQ29uZmlncyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
