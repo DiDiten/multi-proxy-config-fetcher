@@ -356,29 +356,11 @@ hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:37058/?sni=dxobg
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
@@ -422,12 +404,6 @@ hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:37058/?sni=dxobg
 
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
@@ -464,7 +440,7 @@ hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyhl.flylink.cyou:35250/?insec
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyjnd.flylink.cyou:35280/?insecure=1&sni=flyjnd.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A853.68%20GB
+hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A845.11%20GB
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
 
@@ -482,51 +458,51 @@ hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyyg.flylink.cyou:35240/?insec
 
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?security=tls&insecure=1&sni=www.bing.com#Telegram%20%3A%20%40Mrsoulb%20%F0%9F%8F%B3%F0%9F%8F%B4برای دوستان خود ارسال کنید
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21114?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E4%BA%91%E6%B5%B7%E4%BB%99%E8%B8%AA%20%E2%98%81%EF%B8%8F
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21118?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E6%A2%A6%E5%B9%BB%E6%B8%AF%E6%B9%BE%20%F0%9F%8C%8A
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21137?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E6%B5%B7%E9%A3%8E%E5%91%A2%E5%96%83%20%F0%9F%8C%BF
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21177?mport=21101-21199&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A0
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21142?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E6%A2%A6%E5%B9%BB%E6%B8%AF%E6%B9%BE%20%F0%9F%8C%8A
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21177?mport=21101-21199&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21160?mport=21101-21199&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A427.83%20GB
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21177?mport=21101-21199&insecure=0#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A29%20%E5%A4%A9
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21160?mport=21101-21199&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21177?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E7%92%80%E7%92%A8%E6%98%9F%E6%B2%B3%20%E2%9C%A8
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21160?mport=21101-21199&insecure=0#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A29%20%E5%A4%A9
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21178?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E6%B5%B7%E9%A3%8E%E5%91%A2%E5%96%83%20%F0%9F%8C%BF
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21160?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E7%92%80%E7%92%A8%E6%98%9F%E6%B2%B3%20%E2%9C%A8
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@hk.xn--2vxn29amga.com:21192?mport=21101-21199&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%AE%BD%20%E4%BA%91%E6%B5%B7%E4%BB%99%E8%B8%AA%20%E2%98%81%EF%B8%8F
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@jp.xn--2vxn29amga.com:21117?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E5%8D%83%E5%B9%B4%E7%83%9F%E9%9B%A8%20%F0%9F%8D%83
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@jp.xn--2vxn29amga.com:21111?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E6%A8%B1%E6%B5%B7%E6%99%95%E6%9F%93%20%F0%9F%8C%B8
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@jp.xn--2vxn29amga.com:21137?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9B%AA%E8%90%BD%E6%97%A0%E5%A3%B0%20%E2%9D%84%EF%B8%8F
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@jp.xn--2vxn29amga.com:21146?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9B%AA%E8%90%BD%E6%97%A0%E5%A3%B0%20%E2%9D%84%EF%B8%8F
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@jp.xn--2vxn29amga.com:21146?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9C%93%E8%99%B9%E6%A2%A6%E5%BD%B1%20%E2%9C%A8
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@jp.xn--2vxn29amga.com:21162?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E5%8D%83%E5%B9%B4%E7%83%9F%E9%9B%A8%20%F0%9F%8D%83
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@jp.xn--2vxn29amga.com:21149?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E6%A8%B1%E6%B5%B7%E6%99%95%E6%9F%93%20%F0%9F%8C%B8
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@jp.xn--2vxn29amga.com:21180?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9C%93%E8%99%B9%E6%A2%A6%E5%BD%B1%20%E2%9C%A8
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@sg.xn--2vxn29amga.com:21132?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E6%A2%A6%E6%B5%B7%E5%BE%AE%E6%BE%9C%20%F0%9F%8C%8A
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@sg.xn--2vxn29amga.com:21130?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%83%9F%E7%81%AB%E4%BA%BA%E9%97%B4%20%F0%9F%8E%8F
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@sg.xn--2vxn29amga.com:21182?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%B9%81%E8%8A%B1%E4%BC%BC%E9%94%A6%20%F0%9F%8C%B8
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@sg.xn--2vxn29amga.com:21170?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%92%80%E7%92%A8%E6%98%8E%E7%8F%A0%20%E2%9C%A8
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@sg.xn--2vxn29amga.com:21193?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%83%9F%E7%81%AB%E4%BA%BA%E9%97%B4%20%F0%9F%8E%8F
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@sg.xn--2vxn29amga.com:21175?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E6%A2%A6%E6%B5%B7%E5%BE%AE%E6%BE%9C%20%F0%9F%8C%8A
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@sg.xn--2vxn29amga.com:21195?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%92%80%E7%92%A8%E6%98%8E%E7%8F%A0%20%E2%9C%A8
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@sg.xn--2vxn29amga.com:21193?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%B9%81%E8%8A%B1%E4%BC%BC%E9%94%A6%20%F0%9F%8C%B8
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@uk.xn--2vxn29amga.com:21109?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E6%98%9F%E6%B2%B3%E7%B9%81%E9%83%BD%20%E2%9C%A8
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@uk.xn--2vxn29amga.com:21112?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E6%98%9F%E6%B2%B3%E7%B9%81%E9%83%BD%20%E2%9C%A8
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@uk.xn--2vxn29amga.com:21140?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%A2%A7%E6%B5%B7%E9%9C%9E%E5%85%89%20%F0%9F%8C%8A
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@uk.xn--2vxn29amga.com:21126?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E9%A3%8E%E6%8B%82%E8%8A%B1%E6%B5%B7%20%F0%9F%8D%8A
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@uk.xn--2vxn29amga.com:21177?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%83%9F%E9%9B%A8%E5%8F%A4%E9%9F%B5%20%E2%9B%A9%EF%B8%8F
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@uk.xn--2vxn29amga.com:21147?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%A2%A7%E6%B5%B7%E9%9C%9E%E5%85%89%20%F0%9F%8C%8A
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@uk.xn--2vxn29amga.com:21197?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E9%A3%8E%E6%8B%82%E8%8A%B1%E6%B5%B7%20%F0%9F%8D%8A
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@uk.xn--2vxn29amga.com:21191?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%83%9F%E9%9B%A8%E5%8F%A4%E9%9F%B5%20%E2%9B%A9%EF%B8%8F
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@us.xn--2vxn29amga.com:21108?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E9%A3%8E%E9%9F%B5%E4%B9%8B%E9%83%BD%20%F0%9F%8D%82
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@us.xn--2vxn29amga.com:21111?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E9%A3%8E%E9%9F%B5%E4%B9%8B%E9%83%BD%20%F0%9F%8D%82
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@us.xn--2vxn29amga.com:21149?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E9%9B%BE%E9%9A%90%E9%87%91%E9%97%A8%20%F0%9F%8C%81
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@us.xn--2vxn29amga.com:21165?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E9%9B%BE%E9%9A%90%E9%87%91%E9%97%A8%20%F0%9F%8C%81
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@us.xn--2vxn29amga.com:21156?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E6%98%9F%E6%B2%B3%E4%B8%87%E8%B1%A1%20%E2%9C%A8
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@us.xn--2vxn29amga.com:21171?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E7%88%B5%E8%B0%83%E6%B5%81%E5%85%89%20%F0%9F%8E%B7
 
-hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@us.xn--2vxn29amga.com:21198?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E7%88%B5%E8%B0%83%E6%B5%81%E5%85%89%20%F0%9F%8E%B7
+hysteria2://da41c3f3-a7a1-44af-b789-152c0df0f6a0@us.xn--2vxn29amga.com:21193?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E6%98%9F%E6%B2%B3%E4%B8%87%E8%B1%A1%20%E2%9C%A8
 
 hysteria2://dongtaiwang.com@108.181.5.130:4710?security=tls&insecure=1#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
 
@@ -604,8 +580,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg==@209.200.246.174:8139?plugin=obfs-l
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@131.145.33.92:443#Telegram%20%3A%20%40Mrsoulb%20%F0%9F%8F%B3%F0%9F%8F%B4
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#Telegram%20%3A%20%40Mrsoulb%20%F0%9F%8F%B3%F0%9F%8F%B4
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BB%F0%9F%87%AA
@@ -623,10 +597,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.81:443#%F0%9F%92%A039%40oneclick
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@meli_proxyy
 
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
-
-trojan://Aimer@209.94.90.64:443?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHubϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-
-trojan://Aimer@38.47.117.77:443?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHubϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴜɴɪᴛᴇᴅsᴛᴀᴛᴇs(ᴜs)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
 
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
 
@@ -661,8 +631,6 @@ wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@188.114.98.75:878
 wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@188.114.98.75:878?wnoise=quic&address=172.16.0.2%2F32&reserved=219%2C24%2C159&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
 
 wireguard://KK6iPC%2BiaZvpUSyl%2BnKXEuEcd1Fphk1nWF4%2FHep%2Fg0A%3D@162.159.192.73:3581?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A86b7%3A48ca%3Ac6e0%3A3136%3A1554%2F128&presharedkey=&reserved=183%2C159%2C23&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Telegram%20%3A%20%40Mrsoulb%20%F0%9F%8F%B3%F0%9F%8F%B4
-
-wireguard://KK6iPC%2BiaZvpUSyl%2BnKXEuEcd1Fphk1nWF4%2FHep%2Fg0A%3D@162.159.192.73:3581?wnoise=quic&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A86b7%3A48ca%3Ac6e0%3A3136%3A1554%2F128&reserved=183%2C159%2C23&keepalive=5&wpayloadsize=5-…
 
 wireguard://QEVkHK4j7aNKNWpAQfRn8mO%2BZ9Bkdv2y11cAUbdgZ2c%3D@188.114.99.25:955?address=172.16.0.2%2F32&reserved=111%2C45%2C194&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 
