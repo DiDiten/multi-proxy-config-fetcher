@@ -8,6 +8,8 @@ vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?path=%2Fgflz
 
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%94%B9%40MTMVPN
 
+vless://01cd26eb-4fb2-4d78-8028-4f962371329d@91.107.170.231:42370?security=reality&encryption=none&pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&fp=chrome&spx=%2F&type=grpc&serviceName=%40ZedBaz_vpn&sni=yahoo.com&sid=479f4834#@Capoit@Capoit
+
 vless://021c3e15-6361-5107-b463-8062d99dbd79@38.76.247.230:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.230&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20SG%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://021c3e15-6361-5107-b463-8062d99dbd79@www.speedtest.net:443?security=tls&sni=sg-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20SG%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
@@ -258,6 +260,8 @@ vless://5c2ac2e3-388b-4e37-8ce4-1730c4cabb27@ipc.alirezaoshjelalbcsom.ir:2086?pa
 
 vless://612c98e8-8f3e-4cd9-b4fb-ca86b8295313@au-1-rvp.medicaldream.ir:443?security=tls&sni=au-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=au-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20WSCT%20-%20AU%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?path=%2Ftelegram%40v2ray_configs_pools%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=configmr.pages.dev&fp=randomized&type=ws&sni=ConFIgmr.PaGeS.dEV#@Capoit
+
 vless://63fbc23e-4a02-5baf-89ba-0fe5dd6e98fd@45.12.144.8:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.144.8&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20LU%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://64eabf2c-f24a-492c-bdfa-b02a7ebda17c@151.101.3.8:80?mode=auto&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none&encryption=none&host=joinshhproxybede.com&type=xhttp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
@@ -340,10 +344,6 @@ vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20vless_config%40
 
-vless://84b3f2a9-fd82-426c-8670-908a80c918c5@in-1-rvp.medicaldream.ir:443?security=tls&sni=in-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=in-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20WSCT%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://85f00847-6c0b-41a3-882d-9bbee4ca453d@104.17.147.22:8080?path=%2F%40HqV2rayNG%3Fed%3D2048&security=none&encryption=none&host=s2p2e45.speedtest.web.s2pp.ir.&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
-
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000/?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000/?sni=pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
@@ -403,12 +403,6 @@ hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@172.252.236.213:56704/?sni=dxob
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@23.132.228.217:49572/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@23.132.228.217:49572/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
@@ -506,7 +500,7 @@ hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyhl.flylink.cyou:35250/?insec
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyjnd.flylink.cyou:35280/?insecure=1&sni=flyjnd.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A819.1%20GB
+hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A818.62%20GB
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
 
@@ -654,9 +648,11 @@ trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&typ
 
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 
+trojan://blue2024@190.93.244.198:443?sni=td.promote.icu#[🇨🇷]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴛᴀʙʀɪᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴄᴏsᴛᴀʀɪᴄᴀ(ᴄʀ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
+
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHU1MjY5XHU0ZjU5XHU2ZDQxXHU5MWNmXHVmZjFhOTIuODYgR0IiLCJhZGQiOiIxNzUwMTU4NzQxLnRlbmNlbnRhcHAuY24iLCJwb3J0IjoiNDQzIiwiaWQiOiJiZTY4NGVlOS00MjJhLTQzMDctOGJjNi00M2JhMDc5N2M5MWIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoid3MiLCJob3N0IjoiZnJlZTEubG9vcHljbG91ZGNmamlhc3VjZG4udXMua2ciLCJwYXRoIjoiXC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmcmVlMS5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHU1MjY5XHU0ZjU5XHU2ZDQxXHU5MWNmXHVmZjFhOTIuMjYgR0IiLCJhZGQiOiIxNzUwMTU4NzQxLnRlbmNlbnRhcHAuY24iLCJwb3J0IjoiNDQzIiwiaWQiOiJiZTY4NGVlOS00MjJhLTQzMDctOGJjNi00M2JhMDc5N2M5MWIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoid3MiLCJob3N0IjoiZnJlZTEubG9vcHljbG91ZGNmamlhc3VjZG4udXMua2ciLCJwYXRoIjoiXC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmcmVlMS5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHU1OTU3XHU5OTEwXHU1MjMwXHU2NzFmXHVmZjFhMjAyNS0wOS0xNCIsImFkZCI6IjE3NTAxNTg3NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImJlNjg0ZWU5LTQyMmEtNDMwNy04YmM2LTQzYmEwNzk3YzkxYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJ3cyIsImhvc3QiOiJmcmVlMS5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyIsInBhdGgiOiJcLyIsInRscyI6InRscyIsInNuaSI6ImZyZWUxLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIn0=
 
@@ -739,6 +735,8 @@ vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJm
 vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6Itio2LHYp9uMINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+rhiBUZWxlZ3JhbUlEIOKMskV4cHJlc3NfZnJlZXZwbiDwn6qpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6Itqp2KfZhtin2YQg2KrZhNqv2LHYp9mFIENsdWJfUHJvZnNvckAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiJzMS5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgzZjFmMmU0LTk1ZjMtNDZjMi0yMWFjLWZjZDVkYWI2ZDY2MCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODciLCJwcyI6InQubWUvQmV0VjJyYXkgKDYzNjgpIERFIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJzMy5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMxYjE3YWI1LTJjYzYtNDA3OS1hMmZjLTY4YjkzNDQ5MjQzYSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODkiLCJwcyI6InQubWUvQmV0VjJyYXkgKDYzNjYpIFNFIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
