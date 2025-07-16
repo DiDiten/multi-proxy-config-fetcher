@@ -618,10 +618,6 @@ trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&typ
 
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 
-trojan://Aimer@108.165.152.29:2096?allowInsecure=1&sni=acepo.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ: #ɪɴᴅɪᴀ(ɪɴ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-
-trojan://Aimer@27.50.48.204:443?allowInsecure=1&sni=acepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴛᴀʙʀɪᴢ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ʜᴏɴɢᴋᴏɴɢ(ʜᴋ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴀʀɪʏᴀ ₪ ʙᴏᴛ ₪ ʜᴇʟᴘ
-
 trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9▦ برنامه اندروید V2rayng▦ برنامه آیفون iOS +14  |  iOS -14▦ برای مک بوک FoXray | V2box▦ برنامه ویندو‌ز Nekorey | V2rayN 📹 آموزش فعال کردن Mux برای اتصال بهتر در اندروید بعلت تعداد اتصال بالا ممکنه پینگ نده؛ توجه نکنید، متصله ✅#FreeVPN #v2ray #vmess #vless #vpn #فیلترشکن #آنتی_فیلتر #v2box #outline #napsternet #v2rayng #trojan #shadowsocks #ss✜ کل کانفیگ های کانال رایگانه✓✜ برای حمایت از ما شماره حساب ↓ 5859831116055806𖡹𖡹 @Express_freevpn 𖡹𖡹
 
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
@@ -702,21 +698,9 @@ vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJm
 
 vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6Itqp2KfZhtin2YQg2KrZhNqv2LHYp9mFIENsdWJfUHJvZnNvckAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiJzMS5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgzZjFmMmU0LTk1ZjMtNDZjMi0yMWFjLWZjZDVkYWI2ZDY2MCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODciLCJwcyI6InQubWUvQmV0VjJyYXkgKDYzNjgpIERFIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiJzMy5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMxYjE3YWI1LTJjYzYtNDA3OS1hMmZjLTY4YjkzNDQ5MjQzYSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODkiLCJwcyI6InQubWUvQmV0VjJyYXkgKDYzNjYpIFNFIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJzMy5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM3NDc4MmU5LTY2ZjEtNDllMy01NGEwLTIwMDgxZjI5ZWFlYyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODkiLCJwcyI6InQubWUvQmV0VjJyYXkgKDYzNjkpIERFIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJzNC5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijc5YzEzODhlLWExODQtNGM1Ny04ZDcxLTU2MTU2NGZhZDMzMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTAiLCJwcyI6InQubWUvQmV0VjJyYXkgKDYzNjUpIFNFIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-wireguard://4ONQn0dDaf467SZBdK9HVGAAvIICfmiUTROxPrQvX3A%3D@188.114.97.61:1010?wnoise=quic&presharedkey=&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8ac0%3A801f%3Ab511%3Afd5e%3Ab904%2F128&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#An0nymousteam-W14+-+MCIتست شده با ایرانسل
-
-wireguard://4ONQn0dDaf467SZBdK9HVGAAvIICfmiUTROxPrQvX3A%3D@[2606:4700:d0::1ffb:6a55:3a31:7565]:3854?wnoise=quic&presharedkey=&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8ac0%3A801f%3Ab511%3Afd5e%3Ab904%2F128&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#An0nymousteam-W10
-
-wireguard://6JuLQ84TPm0hFxBeE7h6Bf7v6IS1VgmJT2JTghK0N3w%3D@188.114.96.55:2506?wnoise=quic&presharedkey=&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8c48%3Af70b%3Aa96e%3A3b6f%3A15ca%2F128&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#An0nymousteam-W13+-+MTN---------------🔳 @An0nymousTeam
-
-wireguard://6JuLQ84TPm0hFxBeE7h6Bf7v6IS1VgmJT2JTghK0N3w%3D@[2606:4700:d0::1ffb:6a55:3a31:7565]:3854?wnoise=quic&presharedkey=&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8c48%3Af70b%3Aa96e%3A3b6f%3A15ca%2F128&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#An0nymousteam-W11🛜 ایرنسل:
-
-wireguard://6JuLQ84TPm0hFxBeE7h6Bf7v6IS1VgmJT2JTghK0N3w%3D@[2606:4700:d0::4b80:d3e7:6236:3a26]:7559?wnoise=quic&presharedkey=&address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8c48%3Af70b%3Aa96e%3A3b6f%3A15ca%2F128&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#An0nymousteam-W12---------------🔳 @An0nymousTeam
 
 wireguard://KG8CV7%2FzwFm0zSFYOKGYqmP2Q9mDRiemev%2FIkHaRJ1Q%3D@188.114.98.75:878?address=172.16.0.2%2F32&presharedkey=&reserved=0%2C0%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
 
