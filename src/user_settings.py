@@ -2,8 +2,6 @@
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
     "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/normal/mix",
-    "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt",
-    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/subscriptions/v2ray/all_sub.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/Eternity.txt",
     "https://dev1.irdevs.sbs",
     "https://raw.githubusercontent.com/DarknessShade/Sub/main/V2mix",
