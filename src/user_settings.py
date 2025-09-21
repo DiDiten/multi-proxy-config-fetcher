@@ -1,12 +1,10 @@
 # List of source URLs to fetch proxy configurations from.
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
-    "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/base64/mix",
-    "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt",
-    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt",
-    "https://robin.victoriacross.ir",
-    "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity",
-    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
+    "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/normal/mix",
+    "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/subscriptions/v2ray/all_sub.txt",
+    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/Eternity.txt",
     "https://dev1.irdevs.sbs",
     "https://raw.githubusercontent.com/DarknessShade/Sub/main/V2mix",
     "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
@@ -15,9 +13,6 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/nscl5/5/refs/heads/main/configs/all.txt",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt",
     "https://raw.githubusercontent.com/Freedom-Guard-Builder/Freedom-Finder/refs/heads/main/out/mixed_configs.txt",
-    "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-country/XX.txt",
-
-
 
 "https://t.me/s/v2ray_Extractor",
 "https://t.me/s/BINNER_IRAN",
