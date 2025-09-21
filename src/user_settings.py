@@ -6,11 +6,7 @@ SOURCE_URLS = [
     "https://dev1.irdevs.sbs",
     "https://raw.githubusercontent.com/DarknessShade/Sub/main/V2mix",
     "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
-    "https://raw.githubusercontent.com/lagzian/SS-Collector/refs/heads/main/SS/TrinityBase",
-    "https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/refs/heads/main/sub/vless.txt",
-    "https://raw.githubusercontent.com/nscl5/5/refs/heads/main/configs/all.txt",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt",
-    "https://raw.githubusercontent.com/Freedom-Guard-Builder/Freedom-Finder/refs/heads/main/out/mixed_configs.txt",
 
 "https://t.me/s/v2ray_Extractor",
 "https://t.me/s/BINNER_IRAN",
