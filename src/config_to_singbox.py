@@ -227,31 +227,35 @@ class ConfigToSingbox:
 
             dns_config = {
                 "servers": [
-                    {"tag": "proxy-dns", "address": "8.8.8.8", "detour": "select"},
-                    {"tag": "direct-dns", "address": "1.1.1.1", "detour": "direct"},
+                    {"type": "tcp", "tag": "direct-dns", "server": "8.8.8.8"},
+                    {"type": "tcp", "tag": "proxy-dns", "detour": "select", "server": "8.8.8.8"},
+                    {"type": "local", "tag": "local-dns", "detour": "direct"},
                 ],
                 "rules": [
                     {"clash_mode": "Global", "server": "proxy-dns"},
+                    {"source_ip_cidr": ["172.19.0.0/30", "fdfe:dcba:9876::1/126"], "server": "direct-dns"},
                     {"clash_mode": "Direct", "server": "direct-dns"},
                     {"rule_set": ["geosite-ir", "geoip-ir"], "server": "direct-dns"},
-                ], "final": "proxy-dns"
+                    {"domain_suffix": ".ir", "server": "direct-dns"}
+                ], "final": "local-dns", "strategy": "prefer_ipv4", "independent_cache": True
             }
             inbounds_config = [
-                { "type": "tun", "tag": "tun-in", "inet4_address": "172.19.0.1/30", "auto_route": True, "stack": "system", "sniff": True },
-                { "type": "mixed", "tag": "mixed-in", "listen": "127.0.0.1", "listen_port": 2080, "sniff": True }
+               {"type": "tun", "mtu": 9000, "address": ["172.19.0.1/30", "fdfe:dcba:9876::1/126"], "auto_route": True, "stack": "system", "platform": {"http_proxy": {"enabled": True, "server": "127.0.0.1", "server_port": 2080}}},
+               {"type": "mixed", "listen": "127.0.0.1", "listen_port": 2080}
             ]
             outbounds_config = [
                 { "type": "selector", "tag": "select", "outbounds": ["auto", "direct"] + valid_tags, "default": "auto" },
-                { "type": "urltest", "tag": "auto", "outbounds": valid_tags, "url": "http://www.gstatic.com/generate_204", "interval": "10m0s"},
-                {"type": "direct", "tag": "direct"}, {"type": "block", "tag": "block"}
+                { "type": "urltest", "tag": "auto", "outbounds": valid_tags, "url": "http://www.gstatic.com/generate_204", "interval": "10m0s", "tolerance": 50},
+                { "type": "direct", "tag": "direct"}, {"type": "block", "tag": "block"}
             ] + individual_outbounds
             route_config = {
                 "rules": [
-                    {"protocol": "dns", "outbound": "direct-dns"},
+                    {"action": "sniff"}, 
                     {"clash_mode": "Direct", "outbound": "direct"},
                     {"clash_mode": "Global", "outbound": "select"},
+                    {"protocol": "dns", "action": "hijack-dns"},
                     {"rule_set": ["geoip-private", "geosite-ir", "geoip-ir"], "outbound": "direct"},
-                    {"rule_set": "geosite-ads", "outbound": "block"}
+                    {"rule_set": "geosite-ads", "outbound": "reject"}
                 ],
                 "rule_set": [
                     {"type": "remote", "tag": "geosite-ads", "format": "binary", "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ads-all.srs", "download_detour": "direct"},
@@ -259,7 +263,7 @@ class ConfigToSingbox:
                     {"type": "remote", "tag": "geosite-ir", "format": "binary", "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ir.srs", "download_detour": "direct"},
                     {"type": "remote", "tag": "geoip-private", "format": "binary", "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/private.srs", "download_detour": "direct"},
                     {"type": "remote", "tag": "geoip-ir", "format": "binary", "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geoip/ir.srs", "download_detour": "direct"}
-                ], "final": "select"
+                ], "final": "select", "auto_detect_interface": True, "default_domain_resolver": "local-dns"
             }
 
             singbox_config = {
