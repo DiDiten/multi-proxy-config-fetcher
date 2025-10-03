@@ -4,7 +4,7 @@ SOURCE_URLS = [
 	  "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/mahsa.txt",
 	  "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/output/US.txt",
 	  "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/US.txt",
-	"https://raw.githubusercontent.com/DarknessShade/Sub/main/V2mix",
+	  "https://raw.githubusercontent.com/DarknessShade/Sub/main/V2mix",
     "https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/normal/mix",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
     "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt",
